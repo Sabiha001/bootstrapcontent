@@ -1,0 +1,18 @@
+.table{
+	margin-bottom: 20px;
+	padding: 10px 20px 10px 20px;
+}
+.img-fluid{
+	min-height: 200px;
+}
+.float-left{
+	min-height: 200px;
+	width: 45%;
+}
+.float-right{
+	min-height: 200px;
+	width: 45%;
+}
+img{
+	width: 100%;
+}
